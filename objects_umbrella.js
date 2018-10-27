@@ -25,6 +25,8 @@ var umbrella = {
     }
 };
 
+
+//add this in console
 //umbrella.isOpen;
 //umbrella.close();
 //umbrella.isOpen();
